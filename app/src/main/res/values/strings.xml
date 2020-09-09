@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MelkovHw162</string>
+    <string name="Call">Позвонить</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="enter_sms">Введите сообщение sms</string>
+    <string name="send_sms">Отправить sms</string>
 </resources>
